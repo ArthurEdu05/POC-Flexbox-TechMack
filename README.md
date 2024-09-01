@@ -21,7 +21,7 @@ body {
     color: #F28322;
 }
 ```
-
+![BODY](https://github.com/ArthurEdu05/POC-Flexbox-TechMack/blob/main/Imagem-para_read_me/body_tela.png)
 
 - Background Color: A cor de fundo é um roxo escuro (#734885).
 - Layout: O conteúdo do corpo da página é centralizado tanto horizontalmente quanto verticalmente usando flexbox.
@@ -36,6 +36,7 @@ h1 {
     font-size: 50px;
 }
 ```
+![H1](https://github.com/ArthurEdu05/POC-Flexbox-TechMack/blob/main/Imagem-para_read_me/h1_Imagem.png)
 - Tamanho da Fonte: O título tem um tamanho de fonte grande, de 50px.
 - Centralização: O título é centralizado horizontalmente.
   
@@ -52,6 +53,7 @@ p {
     text-indent: 30px;
 }
 ```
+![P](https://github.com/ArthurEdu05/POC-Flexbox-TechMack/blob/main/Imagem-para_read_me/Paragrafro_tela.png)
 - Cor do Texto: O texto dos parágrafos é branco (#F2F2F2).
 - Estilo: O texto é em negrito, com um tamanho de 18px e espaçamento entre linhas de 1.5.
 - Alinhamento: O texto é justificado, com indentação de 30px na primeira linha.
@@ -64,6 +66,7 @@ li {
     margin-bottom: 1%;
 }
 ```
+![LI](https://github.com/ArthurEdu05/POC-Flexbox-TechMack/blob/main/Imagem-para_read_me/Lista_tela.png)
 - Fonte: Consistente com o restante da página, utilizando Arial, Helvetica, sans-serif.
 - Cor: Branco (#F2F2F2).
 - Espaçamento: Há um pequeno espaço entre os itens de lista.
@@ -83,6 +86,7 @@ header {
     margin: 0;
 }
 ```
+![HEADER](https://github.com/ArthurEdu05/POC-Flexbox-TechMack/blob/main/Imagem-para_read_me/header_tela.png)
 - Header: O cabeçalho ocupa toda a largura da página.
 - Conteúdo Principal: O conteúdo é organizado em um layout flexível, centralizado, e ocupa 80% da largura da página.
 
@@ -104,6 +108,7 @@ header {
     padding-left: 2%;
 }
 ```
+![LEFT-RIGHT](https://github.com/ArthurEdu05/POC-Flexbox-TechMack/blob/main/Imagem-para_read_me/Conteudo_Esquerda%2BConteudo_Direita.png)
 - Divisão do Conteúdo: A página é dividida em duas colunas iguais (50% de largura cada).
 - Conteúdo Esquerdo: Tem um espaçamento à direita e é justificado.
 - Conteúdo Direito: Também justificado, com uma borda preta à esquerda para separação.
@@ -118,6 +123,7 @@ img {
     width: 50%;
 }
 ```
+![IMG](https://github.com/ArthurEdu05/POC-Flexbox-TechMack/blob/main/Imagem-para_read_me/Estilo_imagem.png)
 - Centralização: As imagens são centralizadas horizontalmente.
 - Tamanho: As imagens são redimensionadas para ocupar 50% da largura do contêiner.
 
@@ -132,10 +138,10 @@ Para usar este CSS no seu projeto:
 - CSS (Flexbox para layout)
 ## Autores
 Este projeto foi desenvolvido para entendermos, os diferentes tipos de uso da propriedade display:Flex.
-Projetado por:
-- Arthur Eduardo
-- Guilherme Sampaio
-- Felipe Melantonio 
+Projetado por
+- Arthur_Eduardo
+- Guilherme_Sampaio
+- Felipe_Melantonio 
 
 
  
