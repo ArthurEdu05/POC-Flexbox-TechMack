@@ -132,10 +132,10 @@ Para usar este CSS no seu projeto:
 - CSS (Flexbox para layout)
 ## Autores
 Este projeto foi desenvolvido para entendermos, os diferentes tipos de uso da propriedade display:Flex.
-Projetado por
-- Arthur_Eduardo
-- Guilherme_Sampaio
-- Felipe_Melantonio 
+Projetado por:
+- Arthur Eduardo
+- Guilherme Sampaio
+- Felipe Melantonio 
 
 
  
