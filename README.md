@@ -21,6 +21,8 @@ body {
     color: #F28322;
 }
 ```
+
+
 - Background Color: A cor de fundo é um roxo escuro (#734885).
 - Layout: O conteúdo do corpo da página é centralizado tanto horizontalmente quanto verticalmente usando flexbox.
 - Tipografia: A fonte usada é uma combinação de Arial, Helvetica, e fontes sans-serif. A cor do texto principal é laranja vibrante (#F28322).
